@@ -1,0 +1,6 @@
+[leybound-signature]
+# Reserved companion-plugin tokens. Standard Omarchy ignores this section;
+# future Leybound plugins can consume it without duplicating theme colors.
+energy-start = "#bd24df"
+energy-end   = "#2d6ade"
+warning      = "#e5bc59"

@@ -1,0 +1,28 @@
+[controls]
+# Idle controls stay quiet; interaction reveals the shared arcane gradient.
+normal-color        = "#d8d6dd"
+normal-fill-alpha   = 0.03
+normal-border       = "#383b4b"
+normal-border-width = 1
+normal-border-alpha = 0.55
+
+hover-cursor-color        = "#efedf1"
+hover-cursor-fill-alpha   = 0.08
+hover-cursor-border       = "hyprland.active-border-foreground"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.72
+
+focus-color        = "#faf7f1"
+focus-fill-alpha   = 0.1
+focus-border       = "hyprland.active-border-foreground"
+focus-border-width = 2
+focus-border-alpha = 1.0
+
+selected-color        = "#faf7f1"
+selected-fill-alpha   = 0.14
+selected-border       = "hyprland.active-border-foreground"
+selected-border-width = 1
+selected-border-alpha = 0.9
+
+pressed-fill-alpha   = 0.2
+selection-fill-alpha = 0.3

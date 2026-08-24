@@ -1,0 +1,7 @@
+[popups]
+# Quick-control panels and the OSD share this elevated translucent surface.
+background       = "#07080d"
+background-alpha = 0.9
+text             = "#d8d6dd"
+border           = "hyprland.active-border"
+border-alpha     = 0.82

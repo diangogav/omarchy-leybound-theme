@@ -1,0 +1,14 @@
+[menu]
+# The live Omarchy apps/menu overlay uses [menu], parallel to [launcher].
+background                = "#07080d"
+background-alpha          = 0.92
+text                      = "#d8d6dd"
+border                    = "hyprland.active-border-foreground"
+border-alpha              = 0.82
+scrim                     = "#04050a"
+scrim-alpha               = 0.56
+selected-background       = "#bd24df"
+selected-background-alpha = 0.1
+selected-text             = "#faf7f1"
+selected-border           = "hyprland.active-border-foreground"
+selected-border-alpha     = 1.0

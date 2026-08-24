@@ -1,0 +1,10 @@
+[notifications]
+background       = "#07080d"
+background-alpha = 0.86
+text             = "#d8d6dd"
+# Resolve through [hyprland], generated from colors.toml's canonical gradient.
+border           = "hyprland.active-border"
+border-alpha     = 1.0
+border-width     = 2
+# Gold reads as a burning fuse as the notification times out.
+countdown        = "#e5bc59"

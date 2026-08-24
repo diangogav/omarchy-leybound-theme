@@ -1,0 +1,9 @@
+[bar]
+background       = "#10131c"
+background-alpha = 0.74
+text             = "#d8d6dd"
+# Modules calling attention to themselves (recording, voxtype, alerts, updates).
+active           = "#cd55e6"
+scale-with-font  = true
+size-horizontal  = 28
+size-vertical    = 30
