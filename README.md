@@ -9,7 +9,7 @@ Leybound is a restrained arcane dark theme for [Omarchy](https://omarchy.org/). 
 Once this repository is published, pass its real Git URL to Omarchy:
 
 ```bash
-omarchy theme install <git-repository-url>
+omarchy theme install https://github.com/diangogav/omarchy-leybound-theme.git
 ```
 
 The repository name `omarchy-leybound-theme` makes Omarchy install and apply it as `leybound`.
