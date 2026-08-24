@@ -6,7 +6,7 @@ Leybound is a restrained arcane dark theme for [Omarchy](https://omarchy.org/). 
 
 ## Install
 
-Once this repository is published, pass its real Git URL to Omarchy:
+Install Leybound from its public Git repository:
 
 ```bash
 omarchy theme install https://github.com/diangogav/omarchy-leybound-theme.git
@@ -69,12 +69,15 @@ The hand-written `shell.<section>.toml` files are color and presentation data ac
 
 ## Companion plugins
 
-Two optional visual extensions are planned separately:
+Companion plugins are optional; Leybound works without them.
 
-- **Leybound Runes** — runic workspace indicators.
-- **Leybound Mana** — mana-style volume and brightness OSD.
+- **[Leybound Runes](https://github.com/diangogav/omarchy-leybound-runes)** — numbered runic workspace indicators with focused, occupied, and urgent states.
 
-They are **coming soon**. No companion plugin is required for this theme, and no plugin URL is published yet.
+  ```bash
+  omarchy plugin add https://github.com/diangogav/omarchy-leybound-runes.git --enable
+  ```
+
+- **Leybound Mana** — mana-style volume and brightness OSD, coming soon.
 
 ## Customize
 
