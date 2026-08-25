@@ -4,8 +4,8 @@
 mode = "dark"
 
 accent = "#bd24df"
-selection = "#2a0635"
-muted = "#383b4b"
+selection = "#491657"
+muted = "#626575"
 
 # Canonical arcane active-border gradient shared by generated Omarchy surfaces.
 hyprland_active_border = "rgba(bd24dfff) rgba(2d6adeff) 45deg"
@@ -21,7 +21,7 @@ neutral_400 = "#9294a3"
 light_foreground = "#efedf1"
 bright_foreground = "#faf7f1"
 
-red = "#c73848"
+red = "#d9596a"
 yellow = "#e5bc59"
 orange = "#d4a017"
 green = "#3d9970"
@@ -30,9 +30,32 @@ blue = "#5b8ce8"
 magenta = "#cd55e6"
 brown = "#86631f"
 
-bright_red = "#d9596a"
+bright_red = "#ef7a89"
 bright_yellow = "#f4d994"
 bright_green = "#5cb088"
 bright_cyan = "#8fc9d1"
 bright_blue = "#8bafef"
 bright_magenta = "#dc85ec"
+
+# Explicit aliases keep external galleries synchronized with Omarchy's
+# generated terminal palette. Cursor intentionally follows bright foreground.
+cursor = "#faf7f1"
+selection_foreground = "#faf7f1"
+selection_background = "#491657"
+
+color0 = "#0b0d14"
+color1 = "#d9596a"
+color2 = "#3d9970"
+color3 = "#e5bc59"
+color4 = "#5b8ce8"
+color5 = "#cd55e6"
+color6 = "#62aeb8"
+color7 = "#d8d6dd"
+color8 = "#626575"
+color9 = "#ef7a89"
+color10 = "#5cb088"
+color11 = "#f4d994"
+color12 = "#8bafef"
+color13 = "#dc85ec"
+color14 = "#8fc9d1"
+color15 = "#faf7f1"
